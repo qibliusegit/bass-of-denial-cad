@@ -5,6 +5,9 @@ These are the hardware-related files for the bass I'm creating for Hack Club's S
 
 There's loads of songs that are so overplayed on guitar that hearing them annoys people, Stairway to Heaven and Smoke on the Water to name a few. So to stop guitarists from pestering an entire room full of people (or to make them practice the music they need to actually learn at a gig session), this bass uses a Raspberry Pi Zero 2 W along with a screen to stop them in their tracks. Ryo Yamada would be proud, I hope.
 
+<img width="498" height="361" alt="oke-yamada-ryo" src="https://github.com/user-attachments/assets/35731844-401b-44c9-ad34-a0ddb0c9a9f5" />
+
+
 
 This repo contains screenshots, STL files, and STEP files for the bass, which was fully CADed in Onshape. It also contains the wiring diagram, which I found on StewMac (the manufacturers of the pickups I'm ordering)'s website, as well as my bill of materials.
 
