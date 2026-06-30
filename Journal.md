@@ -8,7 +8,7 @@ created_at: "2026-06-23"\
 
 
 ---
-**June 23rd**
+# **June 23rd**
 
 3:21 AM - Made a draft of the body. This didn't involve anything fancy and was just me freeCADing with the plan I found online as a reference image. 
 
@@ -34,7 +34,7 @@ Lapse link: https://lapse.hackclub.com/timelapse/l_hfG1_XWVQF
 
 
 ---
-**June 24th**
+# **June 24th**
 
 12:45 AM - Made a draft of the pickguard using the plan. It came out a little wobbly with the cutouts for the pickups, and will need some editing later. 
 
