@@ -42,6 +42,7 @@ This showed me that as nice as splines are, they can't do everything. I need to 
 
 <img width="657" height="339" alt="image" src="https://github.com/user-attachments/assets/1040c70d-00f2-4736-8e4b-2623e4164088" />
 (sorry that the image isn't amazing, i didn't take a screenshot when I made it so I just pulled from the timelapse)
+
 _vErY wObBlY_
 
 Time spent working: 15 minutes
@@ -58,6 +59,7 @@ Since I knew how to upload images this time I just needed to find a plan of it o
 
 <img width="657" height="386" alt="image" src="https://github.com/user-attachments/assets/8e144da2-e5bf-401d-84ee-d103fa757d4d" />
 (sorry that the image isn't amazing, i didn't take a screenshot when I made it so I just pulled from the timelapse)
+
 _i don't really know what flavor text would be interesting to put here. so, uhhh, how's your day going?_
 
 Time spent working: 20 minutes
@@ -68,9 +70,11 @@ Lapse link: https://lapse.hackclub.com/timelapse/q9EjQVwE_udU
 So it turns out that all I really needed to radius the neck was the wonderful extrude tool (I feel like every day I find out another reason that 95% of CADing {for me at least} is just using the extrude tool). I then made the headstock, which was much simpler than anything else I've made so far, thanks to the fact that I only needed to put 4 holes there for each tuning machine. As for the pickguard, I learned my lesson and worked more with straight lines to keep everything consistent, using splines only when there were unavoidable curves. This resulted in a pickguard that doesn't look incredibly wobbly.
 
 <img width="1560" height="864" alt="image" src="https://github.com/user-attachments/assets/d453c404-fd64-42f9-bf15-5b4229ebdfe5" />
+
 _woah it's a neck and headstock_
 
 <img width="1560" height="864" alt="image" src="https://github.com/user-attachments/assets/5be8721a-bec7-40f2-93a3-a2a84994848a" />
+
 _much **steadier.**_
 
 Time spent working: 30 minutes
@@ -81,6 +85,7 @@ Lapse link: https://lapse.hackclub.com/timelapse/mW1IGIKW8RZF
 There wasn't really anything fancy done here, just a couple touch-ups to make sure that shapes were as accurate as possible. As for the screen and Pi, I used the dimensions of a 2.8in touch screen I found and then increased them slightly, as well as making a deeper cavity, so there was room for the Pi and a battery of some sort. I then just used OnShape's wonderful assembly view to snap everything into place. Now, instead of virtual pieces of a bass, I have an entire virtual bass!
 
 <img width="1560" height="864" alt="image" src="https://github.com/user-attachments/assets/63887de2-05fb-4b2a-a1e2-d5abd7e1292e" />
+
 _now i am become ryo yamada, greatest bass player (hopefully)_
 
 Time spent working: 7 minutes
