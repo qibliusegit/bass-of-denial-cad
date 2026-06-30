@@ -15,6 +15,7 @@ created_at: "2026-06-23"
 The reference image was able to help a bit with making it, but overall it's shown that this isn't going to look good unless I find a way to upload the image onto OnShape and use it to draw out the bass.
 
 <img width="1545" height="976" alt="image" src="https://github.com/user-attachments/assets/a8371613-1237-4cf7-9bbf-35a8ddc3710f" />
+
 _in all honesty, calling this body not good would probably be a little bit TOO nice to it :(. it has a great personality tho!_
 
 Time spent working: 16 minutes
@@ -25,6 +26,7 @@ Lapse link: https://lapse.hackclub.com/timelapse/n1zyYGAF6e8Q
 It unsurprisingly looks a lot better than the first body I made. The only real struggle I had was figuring out how to upload the image in the first place. I don't enjoy admitting that it took me a solid 10 minutes to realize that I needed to be in a sketch first so I could upload it 😭. Once I got that done and figured out the grid scale was 1 inch (thankfully Fender has dimensions on their website). 
 
 <img width="1274" height="864" alt="image" src="https://github.com/user-attachments/assets/bcffd242-0a28-4a51-8ac1-2956904c9dda" />
+
 _the difference between the first body and this one is "you vs the guy she tells you not to worry about"_
 
 Time spent working: 1 hour
