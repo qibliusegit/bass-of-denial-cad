@@ -25,5 +25,7 @@ The purple section represents the wiring for the pickups and output jack for the
 
 <img width="745" height="360" alt="image" src="https://github.com/user-attachments/assets/23effaf1-fe91-41df-8583-a9a8d5d10bdd" />
 
+In this diagram, the pickups (which are on the left) would go into the holes in the middle of the guitar. The two potentiometers and the output jack would be placed near the bottom left edge (from the perspective shown in the CAD).
+
 
 
