@@ -1,6 +1,6 @@
 
 ---
-title: "Ra's bass of denial"
+title: "Ra's bass of denial"\
 author: "Dhruv Ravinuthala"
 description: "Bass that stops pesky guitarists from playing overused songs"
 created_at: "2026-06-23"
