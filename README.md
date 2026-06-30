@@ -1,7 +1,9 @@
 # bass-of-denial-cad
-These are the hardware-related files for the bass I'm creating for Hack Club's Stardance! As someone that loves music, I thought building a bass would be really cool, and since I also like anime, I wanted it to look like Ryo Yamada's Fender Precision from Bocchi the Rock. But because that was somehow still too boring to me, I decided to also make it so the bass can react to overplayed guitar songs, the main inspiration being the 'No stairway! Denied!' scene in Wayne's World, which I'll embed here:
+These are the hardware-related files for the bass I'm creating for Hack Club's Stardance! As someone that loves music, I thought building a bass would be really cool, and since I also like anime, I wanted it to look like Ryo Yamada's Fender Precision from Bocchi the Rock. But because that was somehow still too boring to me, I decided to also make it so the bass can react to overplayed guitar songs, the main inspiration being the 'No stairway! Denied!' scene in Wayne's World, which you can watch by clicking here:
 
 [![Watch the video](https://img.youtube.com/vi/UCh6guovbt0/hqdefault.jpg)](https://www.youtube.com/embed/UCh6guovbt0)
+
+There's loads of songs that are so overplayed on guitar that hearing them annoys people, Stairway to Heaven and Smoke on the Water to name a few. So to stop guitarists from pestering an entire room full of people (or to make them practice the music they need to actually learn at a gig session), this bass uses a Raspberry Pi Zero 2 W along with a screen to stop them in their tracks. Ryo Yamada would be proud, I hope.
 
 
 This repo contains screenshots, STL files, and STEP files for the bass, which was fully CADed in Onshape. It also contains the wiring diagram, which I found on StewMac (the manufacturers of the pickups I'm ordering)'s website, as well as my bill of materials.
