@@ -40,7 +40,7 @@ Lapse link: https://lapse.hackclub.com/timelapse/l_hfG1_XWVQF
 
 This showed me that as nice as splines are, they can't do everything. I need to rely a lot more on just using straight lines and then using splines to connect them together. Everything else came out pretty well though, so I'm happy with it. The outer area doesn't need to be perfect but the holes for the pickups (in the middle) and the tone/volume knobs (bottom) left need to be as accurate as possible, so I have to be careful with them.
 
-<img width="657" height="339" alt="image" src="https://github.com/user-attachments/assets/1040c70d-00f2-4736-8e4b-2623e4164088" />
+<img width="657" height="339" alt="image" src="https://github.com/user-attachments/assets/1040c70d-00f2-4736-8e4b-2623e4164088" />\
 (sorry that the image isn't amazing, i didn't take a screenshot when I made it so I just pulled from the timelapse)
 
 _vErY wObBlY_
@@ -57,7 +57,7 @@ Lapse link: https://lapse.hackclub.com/timelapse/nm29G0AQ-VNF
 
 Since I knew how to upload images this time I just needed to find a plan of it online. Dimensions were pretty easily found thanks to the fact that the Fender Precision is the mother of all bass guitars, so I knew the neck was 34 inches long. I tried radiusing with the fillet tool, though I don't really know how it works so it didn't go very well. I need to mess with other tools in OnShape so I can figure out what will work.
 
-<img width="657" height="386" alt="image" src="https://github.com/user-attachments/assets/8e144da2-e5bf-401d-84ee-d103fa757d4d" />
+<img width="657" height="386" alt="image" src="https://github.com/user-attachments/assets/8e144da2-e5bf-401d-84ee-d103fa757d4d" />\
 (sorry that the image isn't amazing, i didn't take a screenshot when I made it so I just pulled from the timelapse)
 
 _i don't really know what flavor text would be interesting to put here. so, uhhh, how's your day going?_
